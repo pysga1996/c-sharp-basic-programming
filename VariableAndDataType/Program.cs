@@ -6,7 +6,7 @@ namespace VariableAndDataTypes
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("VariableAndDataTypes");
+            Console.WriteLine("VariableAndDataType");
         }
     }
 }
