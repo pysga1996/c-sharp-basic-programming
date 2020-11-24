@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionAndLoop", "Conditi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInputAndOutput", "BasicInputAndOutput\BasicInputAndOutput.csproj", "{FFF6D559-CCDA-4C7A-934D-B804E16DBA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "..\HelloWorld\HelloWorld\HelloWorld.csproj", "{234BB4E2-F21C-45B6-B172-48680CD84447}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{234BB4E2-F21C-45B6-B172-48680CD84447}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
